@@ -1,3 +1,4 @@
+
 # Overview
 Health insurance cost prediction project describes the complete process for forecasting 
 medical costs and aims at developing the optimal medical cost estimate for an individual or a patient in the future 
@@ -29,6 +30,10 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 • **A person who smoke and have BMI above 30 tends to have a higher medical cost** <br>
 
 ![image](Images/photo_2025-02-27_10-26-00.jpg)
+
+# Feature Importance
+
+• **Important features for predicting of charges.** <br>
 
 
 
