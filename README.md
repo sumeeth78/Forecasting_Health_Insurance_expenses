@@ -18,6 +18,8 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 6. Region(categorical): The area in which they live (northeast, northwest, southeast, southwest) possibly where they live determines the specific health risk and premium matching their area.
 # Some Screenshots
 
+• **The percentages in each segment represent the proportion of data points in that category.** <br>
+
 ![image](Images/photo_2025-02-27_10-29-40.jpg)
 
 • **A person who smoke and have BMI above 30 tends to have a higher medical cost** <br>
