@@ -34,7 +34,7 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 # Feature Importance
 
 • **Important features for predicting of charges.** <br>
-
+![image](Images/photo_2025-02-27_11-10-19.jpg)
 
 
 # Model Evaluation
