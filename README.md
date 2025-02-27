@@ -36,6 +36,11 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 
 ![image](Images/photo_2025-02-27_10-26-00.jpg)
 
+• **Correlation Heatmap of Features and Target Variable (Charges)** <br>
+
+![image](Images/photo_2025-02-27_10-26-00.jpg)
+
+
 # Feature Importance
 
 • **Importance of individual features** <br>
