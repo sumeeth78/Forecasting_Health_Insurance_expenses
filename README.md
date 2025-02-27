@@ -17,7 +17,17 @@ The dataset which is largely sourced from Kaggle and other open datasets contain
 5. Smoker(categorical): A yes/no question on whether the person smokes or not with a positive correlation with the cost of healthcare. 
 6. Region(categorical): The area in which they live (northeast, northwest, southeast, southwest) possibly where they live determines the specific health risk and premium matching their area.
 # Some Screenshots
-![image](https://github.com/user-attachments/assets/ed5186b7-e2ff-45b9-84ae-132ad00fdc52)
+
+![image](Images/photo_2025-02-27_10-29-40.jpg)
+
+• **A person who smoke and have BMI above 30 tends to have a higher medical cost** <br>
+
+![image](Images/photo_2025-02-27_10-26-00.jpg)
+
+• **A person who smoke and have BMI above 30 tends to have a higher medical cost** <br>
+
+![image](Images/photo_2025-02-27_10-26-00.jpg)
+
 
 
 # Model Evaluation
